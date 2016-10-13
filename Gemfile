@@ -49,6 +49,7 @@ group :development do
   gem "less-rails"
   gem "twitter-bootstrap-rails"
   gem 'simple_form'
-
+  gem 'devise'
+  gem 'sprockets', '3.7.0'
 end
 
